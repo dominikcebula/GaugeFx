@@ -1,0 +1,23 @@
+GaugeFx Label#progress {
+    -fx-font: 28px "Serif";
+    -fx-translate-y: 28px;
+    -fx-font-weight: bold;
+}
+
+GaugeFx Label#title {
+    -fx-font: 32px "Serif";
+    -fx-translate-y: 70px;
+    -fx-font-weight: bold;
+}
+
+GaugeFx Arc#progress-done {
+   -fx-fill: #A8DF41;
+}
+
+GaugeFx Arc#progress-left {
+   -fx-fill: #EEF2F2;
+}
+
+GaugeFx Arc#background {
+   -fx-fill: #32475E;
+}
