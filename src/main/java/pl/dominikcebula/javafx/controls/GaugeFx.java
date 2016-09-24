@@ -1,4 +1,4 @@
-package pl.dominikcebula.javafx.controls.gaugefx;
+package pl.dominikcebula.javafx.controls;
 
 import javafx.beans.Observable;
 import javafx.beans.property.*;
